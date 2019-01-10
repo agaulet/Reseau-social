@@ -23,20 +23,20 @@ a la personne ou il poura accepter ou decliner la demande.
 Des l'aure que quelqu un s'abonne a un utilisateur une boite de message
 priver ce creer entre eu
 
-<img width="1440" alt="capture d ecran 2019-01-10 a 23 54 34" src="https://user-images.githubusercontent.com/23437868/51002757-9abbea80-1534-11e9-86af-6a8e9db61132.png">
+<img width="700" alt="capture d ecran 2019-01-10 a 23 54 34" src="https://user-images.githubusercontent.com/23437868/51002757-9abbea80-1534-11e9-86af-6a8e9db61132.png">
 
 
 de maitre dans ca page personnel des photo (avec redimention de la photo et un petit
 commantaire avant de la poster)
 
- << photo >>
+ <img width="700" alt="capture d ecran 2019-01-10 a 23 57 38" src="https://user-images.githubusercontent.com/23437868/51002804-c0e18a80-1534-11e9-9cc5-13ee22190d34.png">
 
 cette page personnel peut etre priver.
 En priver seulement les amies peuvent voir vos photo et si elle ne les pas 
 tout les personne peuvent y avoir acces (avec la barre de recherche en t'append son nom, prenom ou dans
 leur liste d'amies)
 
- <img width="1146" alt="capture d ecran 2019-01-10 a 23 54 49" src="https://user-images.githubusercontent.com/23437868/51002673-56c8e580-1534-11e9-93f7-c76f4eb99e77.png">
+ <img width="700" alt="capture d ecran 2019-01-10 a 23 54 49" src="https://user-images.githubusercontent.com/23437868/51002673-56c8e580-1534-11e9-93f7-c76f4eb99e77.png">
 
 ils y a un file d'actualiter de photo (file deroulente vr le bas trier par date les plus ressente) personnaliser selon nos follow
 il y a un nombre de photo fix exemple 30, il est possible de charger d'autre photo plus ancienne de 30 en 30
