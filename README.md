@@ -5,7 +5,6 @@ A etais developper par Gaulet Marvin et Gaulet Alexandre
 <h4>
 Ce si est un reseau social, consu avec les technologies suivante:
 </h4>
-...
 1. reactjs
 2. nodejs
 3. mongoDB
@@ -13,7 +12,6 @@ Ce si est un reseau social, consu avec les technologies suivante:
 5. WebPack
 6. Flux
 7. Autre
-...
 
 <h4>
 Dans ce reseau social nous pouvons avoir un compte personnel ou il est possible:
@@ -53,5 +51,5 @@ n'est pas en priver ou pas abonner (les req sont cibler)
 
  <img width="500" alt="capture d ecran 2019-01-10 a 23 55 19" src="https://user-images.githubusercontent.com/23437868/51003029-7ad8f680-1535-11e9-9510-d2670445d507.png">
 <br>
----
+
 <h4> Gaulet Alexandre <h4>
