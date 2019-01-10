@@ -12,13 +12,12 @@ Ce si est un reseau social, consu avec les technologies suivante:
 6. Flux
 7. Autre...
 
-
+<h4>
 Dans ce reseau social nous pouvons avoir un compte personnel ou il est possible:
-
+</h4>
 De s'abonner a une personne qui n es pas en priver si elle est alors une req est envoyer
 a la personne ou il poura accepter ou decliner la demande.
 
- << photo >>
 
 Des l'aure que quelqu un s'abonne a un utilisateur une boite de message
 priver ce creer entre eu
