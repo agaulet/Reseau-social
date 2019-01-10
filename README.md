@@ -12,7 +12,7 @@ Ce si est un reseau social, consu avec les technologies suivante:
 4. socket IO
 5. WebPack
 6. Flux
-7. Autre...
+7. Autre
 ```
 
 <h4>
