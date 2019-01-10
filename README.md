@@ -42,7 +42,6 @@ ils y a un file d'actualiter de photo (file deroulente vr le bas trier par date 
 il y a un nombre de photo fix exemple 30, il est possible de charger d'autre photo plus ancienne de 30 en 30
 Chaque photo poster par un utilisateur est poster en live dans le file d'actualiter de c'est followers 
 
- 
 
 
 Chaque photo on un systeme de like propre a eu mm et de commantaire, a chaque commantaire poster
@@ -50,4 +49,4 @@ nous affichons le nom d'utilisateur de celui ou celle qui l'a ecrit. Chaque acti
 par l'utilisateur son emit en live a leur followers et ce qui regarde leur compte si il
 n'est pas en priver ou pas abonner (les req sont cibler)
 
- << photo >>
+ <img width="500" alt="capture d ecran 2019-01-10 a 23 55 19" src="https://user-images.githubusercontent.com/23437868/51003029-7ad8f680-1535-11e9-9510-d2670445d507.png">
