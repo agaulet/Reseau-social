@@ -40,7 +40,7 @@ ils y a un file d'actualiter de photo (file deroulente vr le bas trier par date 
 il y a un nombre de photo fix exemple 30, il est possible de charger d'autre photo plus ancienne de 30 en 30
 Chaque photo poster par un utilisateur est poster en live dans le file d'actualiter de c'est followers 
 
- << photo >>
+ ![Uploading Capture d’écran 2019-01-10 à 23.52.09.png…]()
 
 
 Chaque photo on un systeme de like propre a eu mm et de commantaire, a chaque commantaire poster
