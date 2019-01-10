@@ -55,4 +55,4 @@ n'est pas en priver ou pas abonner (les req sont cibler)
 
 A etais developper par Gaulet Marvin et Gaulet Alexandre
 
-<h4 style="text-align: right;"> Gaulet Alexandre <h4>
+<h4 style="margin-Left: 50%;"> Gaulet Alexandre <h4>
