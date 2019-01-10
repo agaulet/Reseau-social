@@ -54,11 +54,5 @@ n'est pas en priver ou pas abonner (les req sont cibler)
 <br>
 
 A etais developper par Gaulet Marvin et Gaulet Alexandre
-<style>
-.fr {
- margin-left: 500px;
- }
-</style>
-<div class="fr">
- <h4> Gaulet Alexandre <h4>
-</div>
+
+        <h4>                                                                                      Gaulet Alexandre <h4>
