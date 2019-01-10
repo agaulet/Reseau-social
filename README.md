@@ -23,6 +23,8 @@ a la personne ou il poura accepter ou decliner la demande.
 Des l'aure que quelqu un s'abonne a un utilisateur une boite de message
 priver ce creer entre eu
 
+<img width="1440" alt="capture d ecran 2019-01-10 a 23 54 34" src="https://user-images.githubusercontent.com/23437868/51002757-9abbea80-1534-11e9-86af-6a8e9db61132.png">
+
 
 de maitre dans ca page personnel des photo (avec redimention de la photo et un petit
 commantaire avant de la poster)
