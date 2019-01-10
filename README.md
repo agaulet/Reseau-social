@@ -34,13 +34,13 @@ En priver seulement les amies peuvent voir vos photo et si elle ne les pas
 tout les personne peuvent y avoir acces (avec la barre de recherche en t'append son nom, prenom ou dans
 leur liste d'amies)
 
- << photo >>
+ <img width="1146" alt="capture d ecran 2019-01-10 a 23 54 49" src="https://user-images.githubusercontent.com/23437868/51002673-56c8e580-1534-11e9-93f7-c76f4eb99e77.png">
 
 ils y a un file d'actualiter de photo (file deroulente vr le bas trier par date les plus ressente) personnaliser selon nos follow
 il y a un nombre de photo fix exemple 30, il est possible de charger d'autre photo plus ancienne de 30 en 30
 Chaque photo poster par un utilisateur est poster en live dans le file d'actualiter de c'est followers 
 
- ![Uploading Capture d’écran 2019-01-10 à 23.52.09.png…]()
+ 
 
 
 Chaque photo on un systeme de like propre a eu mm et de commantaire, a chaque commantaire poster
