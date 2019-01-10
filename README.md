@@ -5,14 +5,15 @@ A etais developper par Gaulet Marvin et Gaulet Alexandre
 <h4>
 Ce si est un reseau social, consu avec les technologies suivante:
 </h4>
+```
 1. reactjs
 2. nodejs
 3. mongoDB
 4. socket IO
 5. WebPack
 6. Flux
-7. Autre
-
+7. Autre...
+```
 <h4>
 Dans ce reseau social nous pouvons avoir un compte personnel ou il est possible:
 </h4>
