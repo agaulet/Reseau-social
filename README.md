@@ -30,6 +30,8 @@ priver ce creer entre eu
 De maitre dans ca page personnel des photo (avec redimention de la photo et un petit
 commantaire avant de la poster)
 
+<img width="700" alt="capture d ecran 2019-01-11 a 17 48 30" src="https://user-images.githubusercontent.com/23437868/51047677-647c7a80-15c9-11e9-9a99-8e264aea4d44.png">
+
  <img width="700" alt="capture d ecran 2019-01-10 a 23 57 38" src="https://user-images.githubusercontent.com/23437868/51002804-c0e18a80-1534-11e9-9cc5-13ee22190d34.png">
 
 Cette page personnel peut etre priver.
