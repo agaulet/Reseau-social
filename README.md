@@ -15,7 +15,7 @@ Ce si est un reseau social, consu avec les technologies suivante:
 
 
 <h4>
- avoir un compte personnel ou :
+Descrition des fonctionnalités de cette apli web
 </h4>
 Dans ce reseau social il est possible de s'abonner a une personne qui n'est pas en priver si elle est, alors une req est envoyer a la personne ou il poura accepter ou decliner la demande.
 
