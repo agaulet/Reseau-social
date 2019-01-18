@@ -35,7 +35,7 @@ En privé seulement, les amies peuvent voir vos photos mais si elle ne l'es pas 
 
  <img width="700" alt="capture d ecran 2019-01-10 a 23 54 49" src="https://user-images.githubusercontent.com/23437868/51002673-56c8e580-1534-11e9-93f7-c76f4eb99e77.png">
 
-ils y a un fil d'actualité des photos (deroulant vers le bas trié par les dates les plus récentes) personnalisées selon nos follow.
+il y a un fil d'actualité des photos (deroulant vers le bas trié par les dates les plus récentes) personnalisées selon nos follow.
 Il y a un nombre de photos fixes exemple 30: il est possible de charger d'autres photos plus anciennes de 30 en 30.
 Chaque photo postée par un utilisateur est en live dans le fil d'actualité de ces followers 
 
