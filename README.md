@@ -26,7 +26,7 @@ Des lorsque quelqu un s'abonne a un utilisateur une boite de messages privé se 
 
 Il est aussi possible de mettre dans sa page personnelle des photos (redimension de la photo et un petit commentaire avant de la poster)
 
-<img width="700" alt="capture d ecran 2019-01-11 a 17 48 30" src="https://user-images.githubusercontent.com/23437868/51047677-647c7a80-15c9-11e9-9a99-8e264aea4d44.png">
+<img width="1440" alt="capture d ecran 2019-01-16 a 19 34 28" src="https://user-images.githubusercontent.com/23437868/51412974-aaa78000-1b6d-11e9-8bc8-709f1f7ed57a.png">
 
  <img width="700" alt="capture d ecran 2019-01-10 a 23 57 38" src="https://user-images.githubusercontent.com/23437868/51002804-c0e18a80-1534-11e9-9cc5-13ee22190d34.png">
 
